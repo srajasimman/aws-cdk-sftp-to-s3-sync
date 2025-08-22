@@ -2,9 +2,7 @@
 
 This project implements an automated SFTP to Amazon S3 file ingestion solution using AWS CDK. It sets up a secure infrastructure for transferring files from an SFTP server to an S3 bucket with support for idempotency and error handling.
 
-## Architecture
-
-![Architecture Diagram](./architecture-diagram.png)
+## [Architecture](./architecture-diagram.svg)
 
 The solution includes the following components:
 
